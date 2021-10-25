@@ -20,20 +20,17 @@
     <loc>https://derrynet.github.io/MOMO/p/20210415-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BF%83%E8%B7%B3/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://derrynet.github.io/MOMO/tags/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://derrynet.github.io/MOMO/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://derrynet.github.io/MOMO/categories/%E7%AC%AC%E4%B8%80%E6%AC%A1/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://derrynet.github.io/MOMO/p/20210408-%E5%87%BA%E8%A1%80/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/p/test-chinese/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/categories/test/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://derrynet.github.io/MOMO/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -41,63 +38,11 @@
     <loc>https://derrynet.github.io/MOMO/page/</loc>
     <lastmod>2021-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://derrynet.github.io/MOMO/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/p/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://derrynet.github.io/MOMO/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://derrynet.github.io/MOMO/about/</loc>
     <lastmod>2021-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://derrynet.github.io/MOMO/search/</loc>
+  </url><url>
+    <loc>https://derrynet.github.io/MOMO/categories/test/</loc>
   </url>
 </urlset>
