@@ -39,7 +39,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/MOMO.png
 
     article:
         math: false
