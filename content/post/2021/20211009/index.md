@@ -3,8 +3,9 @@ title: 20211009 產檢
 description: 
 date: 2021-10-09
 slug: 
-image: 
+image: IMG_2448.JPG
 categories:
+    - 超音波 
 ---
 
 ## 內容
@@ -12,4 +13,12 @@ categories:
 * 地點：台北國泰醫院
 * 週數：32W+2D
 
-> 無照超音波，安排10/30回診做檢查
+> 安排10/30回診做檢查
+
+## 圖片
+
+![](IMG_2448.JPG)  ![](IMG_2449.JPG)  ![](IMG_2450.JPG) 
+
+## 影片
+
+{{< youtube Jqxd1kqXGDQ>}}
