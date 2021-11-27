@@ -1,7 +1,7 @@
 baseurl: https://derrynet.github.io/MOMO/
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 5
+paginate: 10
 title: MOMO公主成長日誌
 
 # Change it to your Disqus shortname before using

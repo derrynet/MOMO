@@ -1,5 +1,5 @@
 ---
-title: 20211023 宮縮檢查
+title: 20211023 宮縮檢查(34W)
 description: 
 date: 2021-10-23
 slug: 
